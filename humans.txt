@@ -5,7 +5,7 @@
 
     khaled
     benfajria.khaled@gmail.com
-    DevOps
+    
 
 # THANKS
 
@@ -15,3 +15,4 @@
 
     HTML5, CSS3, django
     jQuery, Modernizr, Ajax
+    Machine learning, CC
