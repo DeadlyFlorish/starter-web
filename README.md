@@ -13,3 +13,6 @@ Adding GIT Comparisons Lecture
 
 ## GITHub Content
 Comparinson with repo
+
+## Contribution
+Fork the Repo
