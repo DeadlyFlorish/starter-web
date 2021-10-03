@@ -7,3 +7,9 @@ DeadlyFlourish-4
 
 Sample website with plenty of files for demos
 Jhin-W
+
+## GIT comparisons
+Adding GIT Comparisons Lecture
+
+## GITHub Content
+Comparinson with repo
