@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> khaled <role> -- <twitter>
+    khaled
+    benfajria.khaled@gmail.com
+    DevOps
 
 # THANKS
 
