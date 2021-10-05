@@ -10,13 +10,11 @@
 # THANKS
 
     Thanks to asc
-<<<<<<< HEAD
     DeadlyFlourish-4-Jhin
     Zoe akali 
-=======
+
     Yasuo VS Zed who win ?
 
->>>>>>> mybranch
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, django
