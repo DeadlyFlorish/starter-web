@@ -10,7 +10,7 @@ Jhin-W
 
 ## GIT comparisons
 Adding GIT Comparisons Lecture
-
+Adding git rebase lecture
 ## GITHub Content
 Comparinson with repo
 
